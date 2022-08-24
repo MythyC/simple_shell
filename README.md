@@ -324,6 +324,7 @@ $
 
 - GitHub: [@MythyC](https://github.com/MythyC)
 - Twitter: [@sirmythy](https://twitter.com/sirmythy)
+- Instagram: [@chubilo_el_patron](https://www.instagram.com/chubilo_el_patron/)
 
 👤 **Nwankwo Emmanuel**
 
