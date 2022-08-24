@@ -326,7 +326,8 @@ $
 - Twitter: [@sirmythy](https://twitter.com/sirmythy)
 - Instagram: [@chubilo_el_patron](htpps://instagram.com/chubilo_el_patron)
 
-👤 ****
+👤 **Nwankwo Emmanuel**
 
-- GitHub: [@](https://github.com/
-- Twitter: [@](https://twitter.com/
+- GitHub: [@emachizy](https://github.com/emachizy)
+- Twitter: [@emachi_s](https://twitter.com/Emachi_s)
+- instagram: [@emachi_sb](https://www.instagram.com/emachi_sb/)
