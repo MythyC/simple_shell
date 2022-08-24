@@ -325,7 +325,8 @@ $
 - GitHub: [@MythyC](https://github.com/MythyC)
 - Twitter: [@sirmythy](https://twitter.com/sirmythy)
 
-👤 ****
+👤 **Nwankwo Emmanuel**
 
-- GitHub: [@](https://github.com/
-- Twitter: [@](https://twitter.com/
+- GitHub: [@emachizy](https://github.com/emachizy)
+- Twitter: [@emachi_s](https://twitter.com/Emachi_s)
+- instagram: [@emachi_sb](https://www.instagram.com/emachi_sb/)
