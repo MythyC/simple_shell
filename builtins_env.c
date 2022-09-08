@@ -51,7 +51,7 @@ int builtin_env(data_of_program *data)
 /**
  * builtin_set_env - ..
  * @data: struct for the program's data
- * Return: zero if sucess, or other number if its declared in the arguments
+ * Return: zero if sucessful, or other number if its declared in the arguments
  */
 int builtin_set_env(data_of_program *data)
 {
